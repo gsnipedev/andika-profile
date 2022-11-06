@@ -89,6 +89,7 @@ export default {
   text-align: center;
   font-size: 22px;
   margin-block: 3em;
+  padding-inline: 1em;
 }
 
 .buttonContainer {

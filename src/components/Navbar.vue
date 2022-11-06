@@ -38,7 +38,7 @@ export default {
             />
           </svg>
         </button>
-        <div class="brand">Andika Wahyudi</div>
+        <div class="brand">Andika</div>
       </div>
 
       <div class="dropdownitem" :style="{ display: shouldDrop ? 'block' : 'none' }">
@@ -64,6 +64,10 @@ export default {
   border: 1px solid transparent;
   outline: none;
 }
+.dropdownitem > ul > li > a {
+  color: white;
+  text-decoration: none;
+}
 
 .dropdownitem > ul > li {
   padding-block: 7px;
@@ -80,7 +84,6 @@ export default {
   list-style: none;
   color: white;
   font-family: var(--rubik);
-
   padding-inline: 1em;
 }
 
@@ -104,6 +107,7 @@ export default {
 .navbarLG > a {
   color: #ffffff;
   text-decoration: none;
+  font-family: var(--secular);
 }
 
 .navbarLG > ul {
