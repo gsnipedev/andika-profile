@@ -23,7 +23,7 @@ export default {
       </div>
       <div class="imgContainer">
         <div class="imgBorder">
-          <img src="andika.jpeg" alt="Picture of Andika Wahyudi" width="300" />
+          <img src="../assets/andika.jpeg" alt="Picture of Andika Wahyudi" width="300" />
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 <template>
   <section id="skill">
     <div>
-      <img src="ahhh.webp" alt="" width="250" />
+      <img src="./../assets/ahhh.webp" alt="ahhh anime expression" width="250" />
     </div>
     <div class="greeting">
       <h1>Hi, i'm Andika Nice to meet you!</h1>
@@ -17,7 +17,7 @@
     <div class="skillGrid">
       <div class="skill1">
         <div>
-          <img src="back.png" width="50px" alt="Desktop icon with binaries number inside it" />
+          <img src="../assets/back.png" width="50px" alt="Desktop icon with binaries number inside it" />
         </div>
         <div>
           <p>Website Developing</p>
@@ -45,7 +45,7 @@
       </div>
       <div class="skill2">
         <div>
-          <img src="error.png" width="50px" alt="Desktop icon with error popup inside it" />
+          <img src="../assets/error.png" width="50px" alt="Desktop icon with error popup inside it" />
         </div>
         <div>
           <p>Backend Developing</p>
@@ -75,7 +75,7 @@
       </div>
       <div class="skill3">
         <div>
-          <img src="android.png" width="50px" alt="Android Icon" />
+          <img src="../assets/android.png" width="50px" alt="Android Icon" />
         </div>
         <div>
           <p>Android Developing</p>

@@ -29,7 +29,7 @@ export default {
   <footer>
     <div class="image">
       <div class="person">
-        <img src="andika.jpeg" alt="" width="80" />
+        <img src="../assets/andika.jpeg" alt="" width="80" />
       </div>
     </div>
     <div class="quote">
