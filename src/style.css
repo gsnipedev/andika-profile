@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+:root {
+  --snow: #fffbfe;
+  --black: #424b54;
+  --dark: #36413e;
+  --gold: #e1ce7a;
+
+  --secular: "Secular One", sans-serif;
+  --rubik: "Rubik", sans-serif;
+  --inter: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: var(--black);
+}
+
+body::-webkit-scrollbar {
+  background-color: var(--black);
+  width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: crimson;
+  border-radius: 5px;
+}
